@@ -1,3 +1,3 @@
-# Roll-a-dice
+# The-Dice-Game
 
-Roll two die and resolve all of your disputes 🙂.
+Roll two dice and resolve all of your disputes 🙂.
